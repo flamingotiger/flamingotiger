@@ -9,28 +9,13 @@
 - Eslint
 
 #### Frontend
-- React
-- Nextjs
-- Redux
-- Redux-saga
-- Axios
-- Scss
-- Styles-components
-- Prettier
+React, Nextjs, Redux, Redux-saga, Axios, Scss, Styles-components, Prettier
 
 #### Backend
-- Express
-- MongoDB
-- Jsonwebtoken
-- Forever
+Express, MongoDB, Jsonwebtoken, Forever
 
 #### DevOps
-- EC2
-- Route 53
-- Nginx
-- Vecel
-- MongoDB Atlas
-- Certbot & letsencrypt
+EC2, Route 53, Nginx, Vecel, MongoDB Atlas, Certbot & letsencrypt
 
 ### 🚀 Project
 
