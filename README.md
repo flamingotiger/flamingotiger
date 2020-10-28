@@ -3,10 +3,7 @@
 ### ⛸ Stack
 
 #### Common
-- ES6
-- Typescript
-- Linux
-- Eslint
+ES6, Typescript, Linux, Eslint
 
 #### Frontend
 React, Nextjs, Redux, Redux-saga, Axios, Scss, Styles-components, Prettier
