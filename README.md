@@ -1,20 +1,4 @@
-## Frontend Developer
-
-### ⛸ Stack
-
-#### Common
-ES6, Typescript, Linux, Eslint
-
-#### Frontend
-React, Nextjs, Redux, Redux-saga, Axios, Scss, Styles-components, Prettier
-
-#### Backend
-Express, MongoDB, Jsonwebtoken, Forever
-
-#### DevOps
-EC2, Route 53, Nginx, Vecel, MongoDB Atlas, Certbot & letsencrypt
-
-### 🚀 Project
+## 🚀 Project
 
 ![Flamingotiger_logo7](https://user-images.githubusercontent.com/29449263/97399951-90e5c000-1931-11eb-825d-90a2a2830e20.png)
 Flamingotiger: Flamingotiger의 개인 기술 블로그입니다. [https://flamingotiger.github.io](https://flamingotiger.github.io)
