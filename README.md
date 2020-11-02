@@ -1,6 +1,6 @@
 ## 🚀 Project
 ![착한](https://user-images.githubusercontent.com/29449263/97844485-73986380-1d2e-11eb-8d09-a36a422341de.png)
-착한: 결심 아동 및 꿈나무 카드를 이용할 수 있는 가맹점 정보 사이트입니다.. [https://chakhan.info](https://chakhan.info)
+착한: 결심 아동 및 꿈나무 카드를 이용할 수 있는 가맹점 정보 사이트입니다. [https://chakhan.info](https://chakhan.info)
 
 ![Flamingotiger_logo7](https://user-images.githubusercontent.com/29449263/97399951-90e5c000-1931-11eb-825d-90a2a2830e20.png)
 Flamingotiger: Flamingotiger의 개인 기술 블로그입니다. [https://flamingotiger.github.io](https://flamingotiger.github.io)
