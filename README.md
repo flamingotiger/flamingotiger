@@ -1,3 +1,7 @@
+<div align="center">
+ <img height="300" src="https://user-images.githubusercontent.com/29449263/100054505-81d92b80-2e65-11eb-94a9-df4d9f3a4551.jpg" alt="메인 이미지"/>
+</div>
+
 ## 🚀 Project
 ![착한](https://user-images.githubusercontent.com/29449263/97844485-73986380-1d2e-11eb-8d09-a36a422341de.png)
 착한: 결심 아동 및 꿈나무 카드를 이용할 수 있는 가맹점 정보 사이트입니다. [https://chakhan.info](https://chakhan.info)
