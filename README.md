@@ -1,5 +1,5 @@
 <div align="center">
- <img src="https://user-images.githubusercontent.com/29449263/100055256-dfba4300-2e66-11eb-8a35-070c8e1b209e.jpg" alt="메인 이미지"/>
+ <img src="https://user-images.githubusercontent.com/29449263/100169228-493d5e80-2f06-11eb-8a5d-28db5b406038.jpg" alt="메인 이미지"/>
 </div>
 
 ## 🚀 Project
