@@ -1,7 +1,8 @@
 <div align="center">
-<a href="https://hakbeomhong.netlify.app/"> <img src="https://github.com/flamingotiger/flamingotiger/assets/29449263/da9cf774-b624-4a59-84ad-31930dcc47f8" alt="메인 이미지"/>
+<a href="https://hakbeomhong.netlify.app/"> <img src="https://github.com/flamingotiger/flamingotiger/assets/29449263/f2dbddc5-2a31-4c9d-b9d8-8abda65897c1" alt="메인 이미지"/>
  </a>
 </div>
+
 
 ## 🚀 Project
 
