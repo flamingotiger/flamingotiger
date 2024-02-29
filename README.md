@@ -1,11 +1,10 @@
 <div align="center">
-<a href="https://hakbumhong.netlify.app/"> <img src="https://user-images.githubusercontent.com/29449263/100169228-493d5e80-2f06-11eb-8a5d-28db5b406038.jpg" alt="메인 이미지"/>
+<a href="https://hakbeomhong.netlify.app/"> <img src="https://github.com/flamingotiger/flamingotiger/assets/29449263/da9cf774-b624-4a59-84ad-31930dcc47f8" alt="메인 이미지"/>
  </a>
 </div>
 
 ## 🚀 Project
 
-![Flamingotiger Homepage](https://github.com/flamingotiger/flamingotiger/assets/29449263/da9cf774-b624-4a59-84ad-31930dcc47f8)
 Flamingotiger: Flamingotiger의 개인 기술 블로그입니다. [https://flamingotiger.github.io](https://flamingotiger.github.io)
  
 <!--
