@@ -3,7 +3,7 @@
  </a>
 </div>
 
-## 🚀 Project
+## Project
 
 ![Flamingotiger_logo7](https://user-images.githubusercontent.com/29449263/97399951-90e5c000-1931-11eb-825d-90a2a2830e20.png)
 Flamingotiger: Flamingotiger의 개인 기술 블로그입니다. [https://flamingotiger.github.io](https://flamingotiger.github.io)
