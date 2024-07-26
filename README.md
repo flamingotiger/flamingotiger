@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://hakbeomhong.netlify.app/"> <img src="https://github.com/flamingotiger/flamingotiger/assets/29449263/c95ac505-a245-4d00-97a9-936431473cce" alt="메인 이미지"/>
+<a href="https://hakbeomhong.netlify.app/"> <img src="https://github.com/user-attachments/assets/36855c83-aa1d-403a-bd94-f86b92fc96db" alt="메인 이미지"/>
  </a>
 </div>
 
