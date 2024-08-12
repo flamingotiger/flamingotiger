@@ -27,8 +27,6 @@ Flamingotiger: Flamingotiger의 개인 기술 블로그입니다. [https://flami
   - Nodejs  
 - DevOps
   - Github Actions
-- Cloud
-  - AWS
  
 <!--
 **flamingotiger/flamingotiger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
