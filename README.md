@@ -5,28 +5,40 @@
 
 ## Project
 
-![Flamingotiger_logo7](https://user-images.githubusercontent.com/29449263/97399951-90e5c000-1931-11eb-825d-90a2a2830e20.png)
-Flamingotiger: Flamingotiger의 개인 기술 블로그입니다. [https://flamingotiger.github.io](https://flamingotiger.github.io)
+![Flamingotiger_logo7](https://user-images.githubusercontent.com/29449263/97399951-90e5c000-1931-11eb-825d-90a2a2830e20.png)Flamingotiger는 개발 경험과 기술 인사이트를 기록하기 위한 개인 기술 블로그 프로젝트입니다.
+개발 과정에서 마주한 문제 해결 방법, 프론트엔드/백엔드/모바일 기술 스택 정리, 그리고 개인적인 개발 노트를 공유하는 것을 목표로 합니다.
+
+- Live Demo: [https://flamingotiger.github.io](https://flamingotiger.github.io)
+- Portfolio: [https://hakbeom.vercel.app](https://hakbeom.vercel.app)
+
+Key Features
+- 테크니컬 SEO 최적화
+- SSR 서버사이드 렌더링을 통해 검색 최적화
+- Styled-components & TailwindCSS를 활용한 UI 스타일링
+- 기술 블로그 포스팅 및 카테고리 관리
+- 다국어 지원 (i18next)
+- 정적 사이트 생성(Gatsby)으로 빠른 로딩 속도
+- Redux를 활용한 상태 관리
+- 사이트맵 60만개 이상 생성
+
 
 ## Stack
-
 - FrontEnd
-  - Javascript / Typescript
-  - React
-  - Redux
-  - Gatsby
-  - I18next
-  - Styled-component
-  - Tailwindcss
-  - Bootstrap
+ - Nextjs / React
+ - Javascript / Typescript
+ - Redux / zustand
+ - Gatsby
+ - I18next
+ - Styled-component / Tailwindcss
+ - Shadcn / Bootstrap
 - App
-  - React Native
-  - Flutter
+ - React Native
+ - Flutter
 - Backend
-  - Mongodb
-  - Nodejs  
+ - Mongodb
+ - Nodejs
 - DevOps
-  - Github Actions
+ - Github Actions(CI/CD)
  
 <!--
 **flamingotiger/flamingotiger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
