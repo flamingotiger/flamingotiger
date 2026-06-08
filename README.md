@@ -10,7 +10,7 @@ Flamingotiger는 개발 경험과 기술 인사이트를 기록하기 위한 개
 
 - SEO Blog: [https://flamingotiger.com](https://flamingotigercom)
 - Blog: [https://flamingotiger.github.io](https://flamingotiger.github.io)
-- Portfolio: [https://hakbeom.vercel.app](https://hakbeom.vercel.app)
+- Portfolio: [https://hakbeom.flamingotiger.com](https://hakbeom.flamingotiger.com)
 
 Key Features
 - 테크니컬 SEO 최적화
