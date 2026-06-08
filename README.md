@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://hakbeom.flamingotiger.com/"> <img src="https://github.com/user-attachments/assets/36855c83-aa1d-403a-bd94-f86b92fc96db" alt="메인 이미지"/>
+<a href="https://hakbeom.flamingotiger.com/"> <img src="https://github.com/user-attachments/assets/b95acbde-a7fa-4088-b20f-58de28098f60" alt="메인 이미지"/>
  </a>
 </div>
 
@@ -8,6 +8,7 @@
 Flamingotiger는 개발 경험과 기술 인사이트를 기록하기 위한 개인 기술 블로그 프로젝트입니다.
 개발 과정에서 마주한 문제 해결 방법, 프론트엔드/백엔드/모바일 기술 스택 정리, 그리고 개인적인 개발 노트를 공유하는 것을 목표로 합니다.
 
+- SEO Blog: [https://flamingotiger.com](https://flamingotigercom)
 - Blog: [https://flamingotiger.github.io](https://flamingotiger.github.io)
 - Portfolio: [https://hakbeom.vercel.app](https://hakbeom.vercel.app)
 
@@ -19,8 +20,7 @@ Key Features
 - 다국어 지원 (i18next)
 - 정적 사이트 생성(Gatsby)으로 빠른 로딩 속도
 - Redux를 활용한 상태 관리
-- 사이트맵 60만개 이상 생성
-
+- 사이트맵 80만개 이상 생성
 
 ## Stack
 - FrontEnd
