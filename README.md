@@ -8,7 +8,7 @@
 Flamingotiger는 개발 경험과 기술 인사이트를 기록하기 위한 개인 기술 블로그 프로젝트입니다.
 개발 과정에서 마주한 문제 해결 방법, 프론트엔드/백엔드/모바일 기술 스택 정리, 그리고 개인적인 개발 노트를 공유하는 것을 목표로 합니다.
 
-- SEO Blog: [https://flamingotiger.com](https://flamingotigercom)
+- SEO Blog: [https://flamingotiger.com](https://flamingotiger.com)
 - Blog: [https://flamingotiger.github.io](https://flamingotiger.github.io)
 - Portfolio: [https://hakbeom.flamingotiger.com](https://hakbeom.flamingotiger.com)
 
